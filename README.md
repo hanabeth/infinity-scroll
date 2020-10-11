@@ -14,7 +14,7 @@ Do you ever find yourself scrolling through social media to the point where your
 
 
 
-To run the application you will need an unsplash API Key. The agreement is the keep the key confidential, meaning I haven't pushed up my API key nor is this project running on GitHub pages. 
+To run the application you will need an unsplash API Key. The agreement is the keep the key confidential, meaning I haven't pushed up my API key nor is this project running on GitHub pages. Click on the photo to be taken to the Unsplash site and see the photographs details.
 You can create a key via the [Unsplash Developers](https://unsplash.com/documentation#creating-a-developer-account) page. You will then provide your key at the top of the *index.js* file to the *apiKey* variable. 
 
 
